@@ -1,6 +1,7 @@
 # Ignore compiled binaries and object files
 *.exe
 *.o
+*.h
 
 # Ignore generated files
 /build/
